@@ -20,8 +20,8 @@ Import-Module $SMPSModule
 # Global variables.
 $SCSMServer = "SCSMServerName"
 
-# How far back in the calendar to process
-$DaysToProcess = 17
+# How far back in the Outlook calendar to process in days
+$DaysToProcess = 7
 
 # Test the connection to Service Manager before running the rest of the script
 Try {
