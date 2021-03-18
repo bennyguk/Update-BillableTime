@@ -27,7 +27,7 @@ However, it may well be possible to adapt the script to be used with other Billa
 9. Under the Administration node of the wunderbar, navigate to Security -> User Roles.
 10. Update the appropriate user roles so that the task is viewable in the console to analysts by checking the name of the task under the tasks node.
 11. Restart the Service Manager console and select a Work Item. You should see the name of your new task anyware in the Work Items node.
-12. Click on the task to run it. You should see a console window that displays the progress of the script. [Like this](/images/GPPTasksCommon.JPG?raw=true "GPP Files common tab")
+12. Click on the task to run it. You should see a console window that displays the progress of the script. [Like this](/images/ConsoleWindow.JPG?raw=true "Service Manager tasks console window")
 
 # More Information
 Tested using Service Manager 2016 and 2019, Outlook 2016, 2019 and O365 
