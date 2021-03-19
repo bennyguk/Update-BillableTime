@@ -10,7 +10,8 @@ The script is designed to be used with a Service Manager console task, but can a
 
 It is not required to have Outlook running at the time of script execution, but if you do have Outlook open, do not close Outlook while the script is running as this will cause errors.
 
-The script is dependent on the Syliance.BillableTime.Extension (paid version) which is available from ITnetX (https://www.itnetx.ch/) and expands Billable Time to all Work Items in Service Manager and not just Incidents, it also enables comments and other features that expand on the basic built in Billable Time features in Service Manager.
+The script is dependent on the Syliance.BillableTime.Extension (paid version) which is available from ITnetX (https://www.itnetx.ch/) and expands Billable Time to all Work Items in Service Manager and not just Incidents. 
+It also enables comments and other features that expand on the basic built in Billable Time features of Service Manager.
 However, it may well be possible to adapt the script to be used with other Billable Time solutions for Service Manager.
 
 # How to use
