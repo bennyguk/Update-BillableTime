@@ -24,7 +24,7 @@ However, it may well be possible to adapt the script to be used with other Billa
 7. On the Command line tab:
    * Full path to command: PowerShell
    * Parameters: `–ExecutionPolicy Bypass -File .\Update-BillableTime.ps1` - *'–ExecutionPolicy Bypass' will bypass the execution policy only for this script. This isn't needed if the script is signed.*
-   * Working directory: *\\youynetworklocation\*
+   * Working directory: \\\\*youynetworklocation*\
    * Show output when this task is run: Ticked 
 8. Press OK to save the task.
 9. Under the Administration node of the wunderbar, navigate to Security -> User Roles.
