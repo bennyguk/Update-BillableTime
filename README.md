@@ -1,6 +1,8 @@
 # Update-BillableTime
 A PowerShell script to create Billable Time in Microsoft System Center Service Manager for various Work Item types using Outlook calendar appointments and meetings.
 
+Using Outlook to manage Billable Time in Service Manager allows analysts to utilise the graphical nature of Outlook calendaring. This provides a more intuitive interface for managing Billable Time and encourages good time management practises.
+
 # Requisites
 Outlook and the Service Manager console need to be installed on the workstation.
 
